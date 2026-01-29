@@ -14,7 +14,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️','❤️','❤️','❤️','💗'],  // Heart emojis
+        hearts: ['❤️','❤️','❤️','❤️','💗'],
+        bears: ['💗']// Heart emojis
         // Cute bear emojis
     },
 
